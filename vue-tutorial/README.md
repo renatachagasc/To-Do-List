@@ -1,4 +1,4 @@
-# vue-tutorial
+# vue
 
 > A Vue.js project
 
